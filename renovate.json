@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "labels": ["deps"]
+  "labels": ["deps"],
   "gitIgnoredAuthors": ["99875673+RahulGautamSingh-testing@users.noreply.github.com"],
   "xml":{
   "addLabels": "XML"
